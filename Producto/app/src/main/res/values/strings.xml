@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Producto</string>
+    <string name="registro_del_producto">Registro del Producto</string>
+    <string name="lista_de_producto">Lista de Producto</string>
+    <string name="lista_la_vista">Lista La Vista</string>
+    <string name="codigo">Codigo:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="precio">Precio:</string>
+    <string name="existencia">Existencia:</string>
+    <string name="registrar">Registrar</string>
+    <string name="textview">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="codigo">Codigo:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="precio">Precio:</string>
+    <string name="existencia">Existencia:</string>
+    <string name="registrar">Registrar</string>
+</resources>
